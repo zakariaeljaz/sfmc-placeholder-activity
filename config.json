@@ -7,7 +7,7 @@
 	"type": "myActivityType",
 	"lang": {
 		"en-US": {
-			"name": "LVMH Placeholder activity",
+			"name": "LVMH Placeholder Activity",
 			"description": "A custom Journey Builder activity used to remplace a real activity."
 		}
 	},
